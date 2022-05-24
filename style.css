@@ -1,0 +1,19 @@
+h1 {
+  font-family: helvetica, sans-serif;
+}
+
+p {
+  color: red;
+}
+
+section p.more-content {
+  background-color: #ff0000;
+}
+
+.more-content {
+  background-color: #0000ff;
+}
+
+#something-else {
+  border: 5px dashed #00ff00;
+}
